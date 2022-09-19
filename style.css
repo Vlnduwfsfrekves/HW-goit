@@ -1,0 +1,11 @@
+.y{
+    background-color: green;
+    width: 350px;
+    height: 220px;
+    border: 2px dashed red;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    margin: 30px;
+}
